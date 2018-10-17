@@ -1,0 +1,109 @@
+{
+    "Lab Section": 14,
+    "Last Modified": "2018-09-25",
+    "OU ID": 113053749,
+    "OU EMAIL": "julia.davies@ou.edu",
+    "Tasks": [
+        {
+            "Description": "Create all necessary classes, variables, and method signatures using UML diagram",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "implement AbstractObservation constructor",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 1
+        },
+        {
+            "Description": "implement isValid method",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "implement MapData constructor",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "fix MapData createFileName",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "implement MapData parseParamHeader",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 30
+        },
+        {
+            "Description": "fix MapData parseFile",
+            "Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 35
+        },
+        {
+            "Description": "implement MapData calculateStatistics",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 90
+        },
+        {
+            "Description": "fix MapData getters",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 2
+        },
+        {
+            "Description": "fix MapData toString",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "implement Statistics constructors",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 45
+        },
+        {
+            "Description": "implement Statistics createDateFromString",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 30
+        },
+        {
+            "Description": "implement Statistics createStringFromDate",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "implement Statistics getters",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "implement Statistics newerThan, olderThan, and sameAs",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 15
+        },
+        {
+            "Description": "implement Statistics toString",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 2
+        },
+        {
+            "Description": "Write tests for MapData class",
+            "Estimated Time (Minutes)": 60,
+            "Actual Time (Minutes)": 45
+        },
+        {
+            "Description": "Write tests for Observation class",
+            "Estimated Time (Minutes)": 60,
+            "Actual Time (Minutes)": 20
+        },
+        {
+            "Description": "Write tests for Statistics class",
+            "Estimated Time (Minutes)": 60,
+            "Actual Time (Minutes)": 90
+        },
+        {
+            "Description": "document code and generate javadoc",
+            "Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 75
+        }
+        
+    ]
+}
